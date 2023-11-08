@@ -2,7 +2,7 @@ import requests
 import json
 import datetime
 import time
-import yaml
+#import yaml
 
 from datetime import datetime
 print('Asteroid processing service')
@@ -11,7 +11,7 @@ print('Asteroid processing service')
 print('Loading configuration from file')
 
 # 
-nasa_api_key = "???"
+nasa_api_key = "VnZiz5EarMudvJKaxuNnDqGMqCPWMHYgTuqlYwCa"
 nasa_api_url = "https://api.nasa.gov/neo/"
 
 # Getting todays date

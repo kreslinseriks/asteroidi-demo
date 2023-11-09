@@ -3,8 +3,7 @@ import requests
 import json
 import datetime
 import time
-#import yaml # Commented out for now because breaks the program
-
+import yaml 
 from datetime import datetime
 print('Asteroid processing service')
 
